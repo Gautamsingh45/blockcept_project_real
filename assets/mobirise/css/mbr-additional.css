@@ -9,6 +9,10 @@ body {
   .display-1 > .mbr-iconfont {
     font-size: 6.625rem;
   }
+ .image img{
+     width: 150px;
+     height: 120px;
+ }
   .display-2 {
     font-family: 'Be Vietnam Pro', sans-serif;
     font-size: 3.75rem;
